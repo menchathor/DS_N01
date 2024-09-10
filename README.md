@@ -1,2 +1,2 @@
 # RESUMEN
-#### Dentro del siguiente repositorio encontraremos los trabajos propios de cada clases junto con la primera preentrega.
+#### En el repositorio se encuentra el proyecto para el nivel 01 del curso Data Science.
